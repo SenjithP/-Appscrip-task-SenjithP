@@ -1,8 +1,54 @@
-# React + Vite
+ **# Appscrip Assignment - React.js Application**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This repository contains a React.js application developed for Appscrip as part of Assignment. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Key Features:**
+
+- Its a shop page of an e-commerce website.
+
+## Live Demo
+
+View the live project here: **https://appscrip-task-senjith-p.vercel.app/**
+
+## Tech Stack
+
+- React
+- HTML AND CSS
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/SenjithP/-Appscrip-task-SenjithP.git 
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   cd APPSCRIPTASK
+   npm install
+   ```
+
+## Usage
+
+**Development:**
+
+1. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+**Deployment:**
+
+I used Vercel as the platform to deploy this project and it was very easy process.
+
